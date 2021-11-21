@@ -3500,10 +3500,10 @@ flatten@^1.0.2:
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.3.tgz#c1283ac9f27b368abc1e36d1ff7b04501a30356b"
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
 
-flow-parser@0.164.0:
-  version "0.164.0"
-  resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.164.0.tgz#455e16fdba12f24aa1d7631adacc524f1977b6ad"
-  integrity sha512-aJWAhnazcz0o8xIbCW5LBTf+tnsAtLwaMSCcRqA15UTkPBY1Vq1vy1WEPKwcWsve5tos5kkOeCXgd/Nal+LUUQ==
+flow-parser@0.165.1:
+  version "0.165.1"
+  resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.165.1.tgz#e420c560d0c9bd0e546b9f1b79afed37174298c5"
+  integrity sha512-vz/5MZIePDCZO9FfnRaH398cc+XSwtgoUzR6pC5zbekpk5ttCaXOnxypho+hb0NzUyQNFV+6vpU8joRZ1llrCw==
 
 form-data@^3.0.0:
   version "3.0.1"

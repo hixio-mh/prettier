@@ -137,7 +137,7 @@
     "string-replace-loader": "3.0.3",
     "tempy": "2.0.0",
     "terser-webpack-plugin": "5.2.5",
-    "webpack": "5.64.0"
+    "webpack": "5.67.0"
   },
   "scripts": {
     "prepublishOnly": "echo \"Error: must publish from dist/\" && exit 1",

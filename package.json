@@ -81,7 +81,7 @@
     "strip-ansi": "7.0.1",
     "typescript": "4.4.4",
     "unicode-regex": "3.0.0",
-    "unified": "10.1.0",
+    "unified": "10.1.2",
     "vnopts": "1.0.2",
     "wcwidth": "1.0.1",
     "yaml-unist-parser": "1.3.1"
@@ -118,7 +118,7 @@
     "eslint-plugin-regexp": "1.5.0",
     "eslint-plugin-unicorn": "38.0.1",
     "esm-utils": "2.0.0",
-    "execa": "5.1.1",
+    "execa": "6.1.0",
     "jest": "27.3.1",
     "jest-snapshot-serializer-ansi": "1.0.0",
     "jest-snapshot-serializer-raw": "1.2.0",

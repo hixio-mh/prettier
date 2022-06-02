@@ -383,6 +383,12 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+dependabot/npm_and_yarn/babel/parser-7.18.4
+"@babel/parser@7.18.4", "@babel/parser@^7.1.0", "@babel/parser@^7.16.0", "@babel/parser@^7.7.2":
+  version "7.18.4"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.18.4.tgz#6774231779dd700e0af29f6ad8d479582d7ce5ef"
+  integrity sha512-FDge0dFazETFcxGw/EXzOkN8uJp0PC7Qbm+Pe9T+av2zlBpOgunFHkQPPn+eRuClU73JF+98D531UgayY89tow==
+
 "@babel/highlight@^7.16.7":
   version "7.17.12"
   resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.17.12.tgz#257de56ee5afbd20451ac0a75686b6b404257351"
@@ -396,6 +402,7 @@
   version "7.16.3"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.16.3.tgz#271bafcb811080905a119222edbc17909c82261d"
   integrity sha512-dcNwU1O4sx57ClvLBVFbEgx0UZWfd0JQX5X6fxFRCLHelFBGXFfSz6Y0FAq2PEwUqlqLkdVjVr4VASEOuUnLJw==
+main
 
 "@babel/parser@^7.16.7", "@babel/parser@^7.18.0":
   version "7.18.4"

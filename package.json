@@ -142,7 +142,7 @@ dependabot/npm_and_yarn/eslint-plugin-import-2.26.0
     "string-replace-loader": "3.0.3",
     "tempy": "2.0.0",
     "terser-webpack-plugin": "5.2.5",
-    "webpack": "5.64.0"
+    "webpack": "5.72.1"
   },
   "scripts": {
     "prepublishOnly": "echo \"Error: must publish from dist/\" && exit 1",
